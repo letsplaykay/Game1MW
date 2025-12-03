@@ -10,6 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "WaveformEditor",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"TVOS",
+		"VisionOS",
+		"Windows"
 	]
 }
